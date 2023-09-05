@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.715aea60.css",
-    "main.js": "/static/js/main.3bea7326.js",
+    "main.css": "/static/css/main.38bb73d5.css",
+    "main.js": "/static/js/main.d8a78ed8.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/headshot.png": "/static/media/headshot.9757044085ec84894412.png",
     "static/media/github.svg": "/static/media/github.93d62687f9f86d0d7453023f0580d3de.svg",
     "static/media/twitter.svg": "/static/media/twitter.cee0d28be1d5d02d63753f9d5bf6f351.svg",
     "static/media/studying.svg": "/static/media/studying.ae6d497dbee554f1ef9381c39954ff8f.svg",
@@ -12,17 +11,18 @@
     "static/media/about.svg": "/static/media/about.b50b217d971c431f613ce0158aaba1b5.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.fad6cb3b7ce0a6b6474fa2bc8ce52bc7.svg",
     "static/media/job.svg": "/static/media/job.77abb83db4b748cb0efa5e711d0cefe9.svg",
+    "static/media/leetcode.svg": "/static/media/leetcode.aa4ae682164d452ac10fdc2d4740e601.svg",
     "static/media/phone.svg": "/static/media/phone.231c690a60a23e756b45c5d1d6c256e6.svg",
     "static/media/school.svg": "/static/media/school.f63217e12800716bd15952b1a7e05f43.svg",
-    "static/media/location.svg": "/static/media/location.a6680187b796ef4e87ca8e024ed37eb3.svg",
     "index.html": "/index.html",
+    "static/media/location.svg": "/static/media/location.a6680187b796ef4e87ca8e024ed37eb3.svg",
     "static/media/email.svg": "/static/media/email.51013344a07c496679158e9a7cf9940d.svg",
-    "main.715aea60.css.map": "/static/css/main.715aea60.css.map",
-    "main.3bea7326.js.map": "/static/js/main.3bea7326.js.map",
+    "main.38bb73d5.css.map": "/static/css/main.38bb73d5.css.map",
+    "main.d8a78ed8.js.map": "/static/js/main.d8a78ed8.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.715aea60.css",
-    "static/js/main.3bea7326.js"
+    "static/css/main.38bb73d5.css",
+    "static/js/main.d8a78ed8.js"
   ]
 }
